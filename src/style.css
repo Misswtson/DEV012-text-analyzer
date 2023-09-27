@@ -1,13 +1,28 @@
-/* Estilo para todos los textarea con el atributo 'name' */
+* {
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', sans-serif;
 
+}
 body {
     font-family: Arial, sans-serif;
+    background-color: black;
     text-align: center;
     margin: 20px;
+    border: 2px solid #ccc; 
+    border-radius: 0.5em;
+    left: 50%;
+    top:  50%;
+
 }
 
 h1 {
-    color: #333;
+    text-align: center;
+    color: #f6f2f2;
+    font-weight: 500;
+    margin-bottom: 1em;
+
 }
 textarea[name] {
     width: 300px;
@@ -18,22 +33,22 @@ textarea[name] {
 }
 
 textarea[name="user-input"] {
-    background-color: #f0f0f0;
+    background-color: #dbd5d5;
     color: #333;
-    border: 1px solid #6d6b6b;
+    border: 2px solid #055743;
 }
 ul {
     list-style-type: none; 
-    padding: 0; 
-    margin: 0; 
-    border: 1px solid #ccc; 
+    padding: 50; 
+    margin: 50; 
+
 }
 
 
-li.show-result {
+li.result {
     font-size: 16px;
     margin-bottom: 10px;
-    color: #333;
+    color: #31f4ba;
 }
 
 
@@ -48,6 +63,7 @@ button#reset-button {
 }
 
 p1 {
-    color: #333;   
+    margin-bottom: 20px;
+    color: #31f4ba;   
 }
 
