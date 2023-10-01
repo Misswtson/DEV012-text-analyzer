@@ -20,7 +20,7 @@ limpiarButton.addEventListener("click", function (){
     numCount.textContent = "Números 0";
     sumCount.textContent = "Sumatoria: 0";
     console.log ("Se han limpiado los valores");
-    alert("Se han limpiado los valores " + "!");
+    
 })
 
 inputElement.addEventListener("input", function (){
