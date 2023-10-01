@@ -44,23 +44,26 @@ textarea[name="user-input"] {
 }
 
 ul {
-    list-style-type: none; 
-    padding: 80; 
-    margin: 80; 
-    border: 2px solid rgb(14, 131, 136);
     text-align: center;
-
+    list-style-type: none; 
+    border: 2px solid rgb(14, 131, 136);
 }
 
-li.result {
-    text-align: center;
-    font-size: 19px;
+div[name="box"] {
+   background-color: rgb(0, 21, 36);
+}
+.result {
+    font-size: 17px;
+    color: #CBE4DE;
+    padding: 100; 
+    width: 100%;
+    margin-right: 15px;
     margin-bottom: 10px;
     margin-top: 10px;
-    color: #CBE4DE;
+    position: relative;
 }
 
-button#reset-button {
+#reset-button {
     background-color: #0E8388;
     color: #CBE4DE; 
     padding: 10px;
@@ -70,13 +73,16 @@ button#reset-button {
     border-radius: 4px;
     font-size: 22px;
     cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 
 }
 
 footer {
+    display: flex;
+    justify-content: flex-start;
     font-weight: 500;
-    font-size: 19px;
+    font-size: 14px;
     margin-bottom: 1em;
     color: #CBE4DE;
-    text-align: center;  
+
 }
