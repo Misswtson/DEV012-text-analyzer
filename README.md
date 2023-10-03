@@ -7,7 +7,7 @@
 * [3. Funcionalidades](#3-funcionalidades)
 * [4. Prototipo de baja fidelidad](#4-Prototipo-de-baja-fidelidad)
 * [5. Proyecto Final](#5-Proyecto-Final)
-* [6. Desarrollado por:](#6-Desarrollado-por)
+* [6. Desarrollado por](#6-Desarrollado-por)
 ***
 
 ## 1. Preámbulo
@@ -46,10 +46,12 @@ clic en un botón.
 
 ## 4. Prototipo de baja fidelidad
 ![Screen Shot 2023-10-03 at 16 32 04](https://github.com/Misswtson/DEV012-text-analyzer/assets/76451432/445d4f97-04e1-40f1-b545-81fc2b46f155)
+
 Creado en la Herramienta de edición Figma.
 
 ## 5. Proyecto Final
 ![Screen Shot 2023-10-03 at 16 34 07](https://github.com/Misswtson/DEV012-text-analyzer/assets/76451432/3631ac89-988b-44c3-a92f-d5c36125cb50)
+
 Creado en el editor Visual Studio Code.
 
 # 6. Desarrollado por
