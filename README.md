@@ -49,6 +49,12 @@ clic en un botón.
 
 Creado en la Herramienta de edición Figma.
 
+
+![Screen Shot 2023-10-03 at 16 48 44](https://github.com/Misswtson/DEV012-text-analyzer/assets/76451432/e4d139c5-8f79-479d-b32f-3c9bf92d8cba)
+
+Paleta de Colores utilizada.
+
+
 ## 5. Proyecto Final
 ![Screen Shot 2023-10-03 at 16 34 07](https://github.com/Misswtson/DEV012-text-analyzer/assets/76451432/3631ac89-988b-44c3-a92f-d5c36125cb50)
 
