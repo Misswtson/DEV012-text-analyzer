@@ -10,12 +10,12 @@ const numCount = document.querySelector('li.result:nth-child(5)');
 const sumCount = document.querySelector('li.result:nth-child(6)');
 
 //Inicio de mis metricas en cero, lo modifique porque no las estaba carganado a tiempo. 
-/*wordCount.textContent = "Palabras: 0";
+wordCount.textContent = "Palabras: 0";
 charCount.textContent = "Caracteres: 0";
 noSpaces.textContent = "Espacios: 0";
 wordLenght.textContent = "Longitud: 0";
 numCount.textContent = "Números 0";
-sumCount.textContent = "Sumatoria: 0";*/
+sumCount.textContent = "Sumatoria: 0";
 
 limpiarButton.addEventListener("click", function (){
 inputElement.value = "";
