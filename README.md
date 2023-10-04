@@ -8,7 +8,6 @@
 * [4. Prototipo de baja fidelidad](#4-Prototipo-de-baja-fidelidad)
 * [5. Proyecto Final](#5-Proyecto-Final)
 * [6. Desarrollado por](#6-Desarrollado-por)
-***
 
 ## 1. Preámbulo
 
