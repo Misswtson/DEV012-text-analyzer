@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Analizador de texto </title>
+  <link rel="stylesheet" href="style.css" />
+  
+</head>
+<body>
+  <header>
+    <h1>Analizador de Texto</h1>
+  </header>
+  <textarea name="user-input" placeholder="Ingrese Texto aqui..."></textarea>
+  <div name="box">
+  <ul>
+    <li data-testid="word-count" class="result"></li>
+    <li data-testid="character-count" class="result"></li>
+    <li data-testid="character-no-spaces-count" class="result"></li>
+    <li data-testid="word-length-average" class="result"></li>
+    <li data-testid="number-count" class="result"></li>
+    <li data-testid="number-sum" class="result"></li> 
+  </ul>
+</div>
+<button id="reset-button">Limpiar </button>
+<footer><p>Made by Emma Linares</p></footer>
+<script src="index.js" type="module"></script>
+</body>
+</html>
